@@ -1,0 +1,27 @@
+body {
+    background-color:lavender;
+
+}
+
+h1{
+
+    color:honeydew;
+    text-align: center;
+    font-family:"franklin gothic medium","arial narrow","arial,sans- serif";  
+}
+.header
+{
+    flex:display;
+    background-color: bisque;
+    padding:150px;
+    color:blue;
+    text-align: center; 
+}
+
+.column{
+    padding:100px;
+
+    background-color: aqua;
+    display:flex;
+    justify-content: space-around;
+}
